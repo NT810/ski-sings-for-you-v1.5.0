@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sky manifest.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SKY M DOWN0000" x="2" y="2" width="614" height="534" pivotX="32.25" pivotY="-119.85"/>
+	<SubTexture name="SKY M DOWN0001" x="624" y="2" width="614" height="534"/>
+	<SubTexture name="SKY M DOWN0002" x="1246" y="2" width="614" height="534"/>
+	<SubTexture name="SKY M DOWN0003" x="1868" y="2" width="614" height="534"/>
+	<SubTexture name="SKY M DOWN0004" x="2490" y="2" width="614" height="534"/>
+	<SubTexture name="SKY M DOWN0005" x="3112" y="2" width="614" height="534"/>
+	<SubTexture name="SKY M DOWN0006" x="3734" y="2" width="614" height="534"/>
+	<SubTexture name="SKY M DOWN0007" x="4356" y="2" width="614" height="534"/>
+	<SubTexture name="SKY M DOWN0008" x="1246" y="2" width="614" height="534"/>
+	<SubTexture name="SKY M DOWN0009" x="1868" y="2" width="614" height="534"/>
+	<SubTexture name="SKY M DOWN0010" x="2490" y="2" width="614" height="534"/>
+	<SubTexture name="SKY M DOWN0011" x="3112" y="2" width="614" height="534"/>
+	<SubTexture name="SKY M DOWN0012" x="3734" y="2" width="614" height="534"/>
+	<SubTexture name="SKY M DOWN0013" x="4356" y="2" width="614" height="534"/>
+	<SubTexture name="SKY M ID0000" x="4978" y="2" width="588" height="615" pivotX="45.9" pivotY="23.45"/>
+	<SubTexture name="SKY M ID0001" x="5574" y="2" width="588" height="615"/>
+	<SubTexture name="SKY M ID0002" x="6170" y="2" width="588" height="615"/>
+	<SubTexture name="SKY M ID0003" x="6766" y="2" width="588" height="615"/>
+	<SubTexture name="SKY M ID0004" x="7362" y="2" width="588" height="615"/>
+	<SubTexture name="SKY M ID0005" x="2" y="625" width="588" height="615"/>
+	<SubTexture name="SKY M ID0006" x="598" y="625" width="588" height="615"/>
+	<SubTexture name="SKY M ID0007" x="1194" y="625" width="588" height="615"/>
+	<SubTexture name="SKY M ID0008" x="1790" y="625" width="588" height="615"/>
+	<SubTexture name="SKY M ID0009" x="2386" y="625" width="588" height="615"/>
+	<SubTexture name="SKY M ID0010" x="2982" y="625" width="588" height="615"/>
+	<SubTexture name="SKY M ID0011" x="3578" y="625" width="588" height="615"/>
+	<SubTexture name="SKY M LEFT0000" x="4174" y="625" width="577" height="623" pivotX="87.2" pivotY="34.45"/>
+	<SubTexture name="SKY M LEFT0001" x="4759" y="625" width="577" height="623"/>
+	<SubTexture name="SKY M LEFT0002" x="5344" y="625" width="577" height="623"/>
+	<SubTexture name="SKY M LEFT0003" x="5929" y="625" width="577" height="623"/>
+	<SubTexture name="SKY M LEFT0004" x="6514" y="625" width="577" height="623"/>
+	<SubTexture name="SKY M LEFT0005" x="7099" y="625" width="577" height="623"/>
+	<SubTexture name="SKY M LEFT0006" x="2" y="1256" width="577" height="623"/>
+	<SubTexture name="SKY M LEFT0007" x="587" y="1256" width="577" height="623"/>
+	<SubTexture name="SKY M LEFT0008" x="5344" y="625" width="577" height="623"/>
+	<SubTexture name="SKY M LEFT0009" x="5929" y="625" width="577" height="623"/>
+	<SubTexture name="SKY M LEFT0010" x="6514" y="625" width="577" height="623"/>
+	<SubTexture name="SKY M LEFT0011" x="7099" y="625" width="577" height="623"/>
+	<SubTexture name="SKY M LEFT0012" x="2" y="1256" width="577" height="623"/>
+	<SubTexture name="SKY M LEFT0013" x="587" y="1256" width="577" height="623"/>
+	<SubTexture name="SKY M RIGHT0000" x="1172" y="1256" width="598" height="602" pivotX="15.45" pivotY="15.85"/>
+	<SubTexture name="SKY M RIGHT0001" x="1778" y="1256" width="598" height="602"/>
+	<SubTexture name="SKY M RIGHT0002" x="2384" y="1256" width="598" height="602"/>
+	<SubTexture name="SKY M RIGHT0003" x="2990" y="1256" width="598" height="602"/>
+	<SubTexture name="SKY M RIGHT0004" x="3596" y="1256" width="598" height="602"/>
+	<SubTexture name="SKY M RIGHT0005" x="4202" y="1256" width="598" height="602"/>
+	<SubTexture name="SKY M RIGHT0006" x="4808" y="1256" width="598" height="602"/>
+	<SubTexture name="SKY M RIGHT0007" x="5414" y="1256" width="598" height="602"/>
+	<SubTexture name="SKY M RIGHT0008" x="2384" y="1256" width="598" height="602"/>
+	<SubTexture name="SKY M RIGHT0009" x="2990" y="1256" width="598" height="602"/>
+	<SubTexture name="SKY M RIGHT0010" x="3596" y="1256" width="598" height="602"/>
+	<SubTexture name="SKY M RIGHT0011" x="4202" y="1256" width="598" height="602"/>
+	<SubTexture name="SKY M RIGHT0012" x="4808" y="1256" width="598" height="602"/>
+	<SubTexture name="SKY M RIGHT0013" x="5414" y="1256" width="598" height="602"/>
+	<SubTexture name="SKY M SCREAM0000" x="6020" y="1256" width="626" height="782" pivotX="83.05" pivotY="168.1"/>
+	<SubTexture name="SKY M SCREAM0001" x="6654" y="1256" width="626" height="782"/>
+	<SubTexture name="SKY M SCREAM0002" x="7288" y="1256" width="626" height="782"/>
+	<SubTexture name="SKY M SCREAM0003" x="6020" y="1256" width="626" height="782"/>
+	<SubTexture name="SKY M SCREAM0004" x="6654" y="1256" width="626" height="782"/>
+	<SubTexture name="SKY M SCREAM0005" x="7288" y="1256" width="626" height="782"/>
+	<SubTexture name="SKY M SCREAM0006" x="6020" y="1256" width="626" height="782"/>
+	<SubTexture name="SKY M SCREAM0007" x="6654" y="1256" width="626" height="782"/>
+	<SubTexture name="SKY M SCREAM0008" x="7288" y="1256" width="626" height="782"/>
+	<SubTexture name="SKY M SCREAM0009" x="6020" y="1256" width="626" height="782"/>
+	<SubTexture name="SKY M SCREAM0010" x="6654" y="1256" width="626" height="782"/>
+	<SubTexture name="SKY M SCREAM0011" x="7288" y="1256" width="626" height="782"/>
+	<SubTexture name="SKY M SCREAM0012" x="6020" y="1256" width="626" height="782"/>
+	<SubTexture name="SKY M SCREAM0013" x="6654" y="1256" width="626" height="782"/>
+	<SubTexture name="SKY M SCREAM0014" x="7288" y="1256" width="626" height="782"/>
+	<SubTexture name="SKY M SCREAM0015" x="6020" y="1256" width="626" height="782"/>
+	<SubTexture name="SKY M SCREAM0016" x="6654" y="1256" width="626" height="782"/>
+	<SubTexture name="SKY M SCREAM0017" x="7288" y="1256" width="626" height="782"/>
+	<SubTexture name="SKY M SCREAM0018" x="6020" y="1256" width="626" height="782"/>
+	<SubTexture name="SKY M SCREAM0019" x="6654" y="1256" width="626" height="782"/>
+	<SubTexture name="SKY M SCREAM0020" x="7288" y="1256" width="626" height="782"/>
+	<SubTexture name="SKY M SCREAM0021" x="6020" y="1256" width="626" height="782"/>
+	<SubTexture name="SKY M SCREAM0022" x="6654" y="1256" width="626" height="782"/>
+	<SubTexture name="SKY M SCREAM0023" x="7288" y="1256" width="626" height="782"/>
+	<SubTexture name="SKY M SCREAM0024" x="6020" y="1256" width="626" height="782"/>
+	<SubTexture name="SKY M SCREAM0025" x="6654" y="1256" width="626" height="782"/>
+	<SubTexture name="SKY M SCREAM0026" x="7288" y="1256" width="626" height="782"/>
+	<SubTexture name="SKY M SCREAM0027" x="6020" y="1256" width="626" height="782"/>
+	<SubTexture name="SKY M SCREAM0028" x="6654" y="1256" width="626" height="782"/>
+	<SubTexture name="SKY M SCREAM0029" x="7288" y="1256" width="626" height="782"/>
+	<SubTexture name="SKY M SCREAM0030" x="6020" y="1256" width="626" height="782"/>
+	<SubTexture name="SKY M SCREAM0031" x="6654" y="1256" width="626" height="782"/>
+	<SubTexture name="SKY M SCREAM0032" x="7288" y="1256" width="626" height="782"/>
+	<SubTexture name="SKY M SCREAM0033" x="6020" y="1256" width="626" height="782"/>
+	<SubTexture name="SKY M SCREAM0034" x="6654" y="1256" width="626" height="782"/>
+	<SubTexture name="SKY M SCREAM0035" x="7288" y="1256" width="626" height="782"/>
+	<SubTexture name="SKY M SCREAM0036" x="6020" y="1256" width="626" height="782"/>
+	<SubTexture name="SKY M SCREAM0037" x="6654" y="1256" width="626" height="782"/>
+	<SubTexture name="SKY M SCREAM0038" x="7288" y="1256" width="626" height="782"/>
+	<SubTexture name="SKY M SCREAM0039" x="6020" y="1256" width="626" height="782"/>
+	<SubTexture name="SKY M SCREAM0040" x="6654" y="1256" width="626" height="782"/>
+	<SubTexture name="SKY M SCREAM0041" x="7288" y="1256" width="626" height="782"/>
+	<SubTexture name="SKY M TLOOP0000" x="2" y="2046" width="533" height="584" pivotX="0" pivotY="0"/>
+	<SubTexture name="SKY M TLOOP0001" x="543" y="2046" width="533" height="584"/>
+	<SubTexture name="SKY M TLOOP0002" x="1084" y="2046" width="533" height="584"/>
+	<SubTexture name="SKY M TLOOP0003" x="1625" y="2046" width="533" height="584"/>
+	<SubTexture name="SKY M TLOOP0004" x="2166" y="2046" width="533" height="584"/>
+	<SubTexture name="SKY M TLOOP0005" x="2707" y="2046" width="533" height="584"/>
+	<SubTexture name="SKY M UP0000" x="3248" y="2046" width="616" height="646" pivotX="44.15" pivotY="78.2"/>
+	<SubTexture name="SKY M UP0001" x="3872" y="2046" width="616" height="646"/>
+	<SubTexture name="SKY M UP0002" x="4496" y="2046" width="616" height="646"/>
+	<SubTexture name="SKY M UP0003" x="5120" y="2046" width="616" height="646"/>
+	<SubTexture name="SKY M UP0004" x="5744" y="2046" width="616" height="646"/>
+	<SubTexture name="SKY M UP0005" x="6368" y="2046" width="616" height="646"/>
+	<SubTexture name="SKY M UP0006" x="6992" y="2046" width="616" height="646"/>
+	<SubTexture name="SKY M UP0007" x="2" y="2700" width="616" height="646"/>
+	<SubTexture name="SKY M UP0008" x="4496" y="2046" width="616" height="646"/>
+	<SubTexture name="SKY M UP0009" x="5120" y="2046" width="616" height="646"/>
+	<SubTexture name="SKY M UP0010" x="5744" y="2046" width="616" height="646"/>
+	<SubTexture name="SKY M UP0011" x="6368" y="2046" width="616" height="646"/>
+	<SubTexture name="SKY M UP0012" x="6992" y="2046" width="616" height="646"/>
+	<SubTexture name="SKY M UP0013" x="2" y="2700" width="616" height="646"/>
+</TextureAtlas>
